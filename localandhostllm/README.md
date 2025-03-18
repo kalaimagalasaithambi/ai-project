@@ -24,6 +24,10 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
    ```bash
    ollama pull llama3.2:1b
    ```
+4. **To list downloaded Models**
+   ```bash
+   ollama list
+   ```
 
 ## 🚀 Project Setup
 
